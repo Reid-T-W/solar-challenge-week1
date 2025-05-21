@@ -4,6 +4,8 @@ This project analyzes and compares solar resource data (GHI, DNI, DHI, and relat
 
 ---
 
+![Interactive Solar Dashboard](./screenshots/Dashboard_screenshot.png)
+
 ## Project Structure
 
 ```
