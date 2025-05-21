@@ -76,6 +76,7 @@ solar-challenge-week1/
   - Lets users select countries to compare
   - Displays boxplots of GHI by country
   - (Extendable: add more plots, metrics, or interactivity as needed)
+  - [Open the Streamlit Dashboard](https://solar-challenge-week1git-3fuhuu4ibupp2yc3jdbaq6.streamlit.app/)
 
 ---
 
